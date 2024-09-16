@@ -65,4 +65,4 @@ OptiChain aims to expand its feature set with additional tools for:
 
 ### License
 
-This project is licensed under the Apache License Version 2.0 - see the [Apache License Version 2.0)](../LICENSE) file for details.
+This project is licensed under the Apache License Version 2.0 - see the [Apache License Version 2.0)](../LICENSE).
