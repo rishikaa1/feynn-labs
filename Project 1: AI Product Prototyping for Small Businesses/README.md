@@ -4,7 +4,7 @@
 
 **OptiChain** is an AI-powered platform designed to address the unique challenges faced by small and medium enterprises (SMEs) in supply chain management. By leveraging real-time data, predictive analytics, and automation, OptiChain helps businesses optimize inventory management, reduce delays, and enhance operational efficiency.
 
-This repository contains the project report and resources for **OptiChain**, including the conceptual framework, market analysis, and implementation strategies aimed at improving supply chain operations in SMEs.
+This repository contains the project report proposal for **OptiChain**, including the conceptual framework, market analysis, and implementation strategies aimed at improving supply chain operations in SMEs.
 
 ## Key Features
 
@@ -16,7 +16,7 @@ This repository contains the project report and resources for **OptiChain**, inc
 
 ## Problem Statement
 
-SMEs often struggle with supply chain inefficiencies due to limited resources, reliance on outdated systems, and fragmented data. OptiChain addresses these issues by providing:
+SMEs often struggle with supply chain inefficiencies due to limited resources, reliance on outdated systems, and fragmented data. OptiChain will address these issues by providing:
 
 - Affordable, AI-powered solutions for supply chain visibility
 - Tools to improve inventory accuracy and reduce delays
@@ -24,7 +24,7 @@ SMEs often struggle with supply chain inefficiencies due to limited resources, r
 
 ## Target Audience
 
-OptiChain is built for SME owners, supply chain managers, and operations heads who face challenges such as:
+OptiChain is designed for SME owners, supply chain managers, and operations heads who face challenges such as:
 
 - Inaccurate inventory tracking
 - Lack of real-time data visibility
@@ -33,26 +33,26 @@ OptiChain is built for SME owners, supply chain managers, and operations heads w
 
 ## Market and Customer Needs
 
-The global supply chain management market is rapidly growing, but many existing solutions are too costly or complex for SMEs. OptiChain fills this gap by offering an affordable, scalable, and easy-to-use solution tailored specifically for SMEs.
+The global supply chain management market is rapidly growing, but many existing solutions are too costly or complex for SMEs. OptiChain will fill this gap by offering an affordable, scalable, and easy-to-use solution tailored specifically for SMEs.
 
 ### Competitive Advantages
-- **Affordability**: OptiChain offers tiered subscription services that meet the budget constraints of SMEs.
+- **Affordability**: OptiChain will offer tiered subscription services that meet the budget constraints of SMEs.
 - **Advanced Features**: AI-driven insights and real-time data integration not typically available in lower-cost solutions.
 - **User-Friendly Interface**: Easy to navigate with minimal training, suitable for non-technical users.
-- **Scalability**: OptiChain grows with your business, offering more advanced features as needed.
+- **Scalability**: OptiChain will grow with your business, offering more advanced features as needed.
 
 ## How It Works
 
-1. **Data Integration**: OptiChain integrates data from multiple sources such as supplier databases, inventory management systems, and logistics networks.
-2. **Predictive Analytics**: Using machine learning models, OptiChain forecasts demand, optimizes inventory levels, and identifies potential risks.
-3. **Supplier Management**: The platform allows users to manage and monitor supplier performance, helping to negotiate better terms and ensure timely deliveries.
+1. **Data Integration**: OptiChain will integrate data from multiple sources such as supplier databases, inventory management systems, and logistics networks.
+2. **Predictive Analytics**: Using machine learning models, OptiChain will forecast demand, optimizes inventory levels, and identifies potential risks.
+3. **Supplier Management**: The platform will allow users to manage and monitor supplier performance, helping to negotiate better terms and ensure timely deliveries.
 4. **Logistics Optimization**: End-to-end logistics tracking and route optimization ensure timely deliveries and cost savings.
 
-## Technologies Used
+## Technologies To Be Used
 
 - **AI & Machine Learning**: Time Series Analysis, Linear Programming, Genetic Algorithms, and more.
-- **Cloud-Based**: OptiChain operates on a cloud platform, ensuring scalability and security.
-- **Integration Capabilities**: Easily integrates with existing ERP systems and other business tools.
+- **Cloud-Based**: OptiChain will operate on a cloud platform, ensuring scalability and security.
+- **Integration Capabilities**: Easily integrable with existing ERP systems and other business tools.
 
 ## Future Development
 
@@ -60,14 +60,6 @@ OptiChain aims to expand its feature set with additional tools for:
 - Supplier management
 - Order tracking
 - Customer relationship management (CRM) integrations
-
-## Contact
-
-For any questions, suggestions, or contributions, feel free to contact the project author:
-
-**Rishika Hazarika**  
-Email: [your-email@example.com]  
-LinkedIn: [your-linkedin-profile]
 
 ---
 
