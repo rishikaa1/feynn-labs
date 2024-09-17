@@ -43,5 +43,5 @@ For detailed findings, methodologies, and recommendations, refer to the `Report.
 - Deeper insights into charging infrastructure and policies supporting EV adoption.
 
 ## License
-This project is licensed under the Apache License Version 2.0 - see the [Apache License Version 2.0](../LICENSE).
+This project is licensed under the [Apache License Version 2.0](../LICENSE).
    
