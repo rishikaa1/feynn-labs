@@ -16,5 +16,16 @@ The report titled **Strategic Insights into Market Segmentation** provides a dee
 ## Case Study: McDonald's Brand Image
 The case study explores customer perceptions of the McDonald's brand/ Clustering techniques are applied to identify distinct customer segments and analyze their preferences. These insights can help refine marketing strategies based on consumer segmentation.
 
+## Dependencies
+The following libraries are required to run the notebook:
+- `numpy`
+- `pandas`
+- `matplotlib`
+- `seaborn`
+- `scikit-learn`
+- `yellowbrick`
+- `statsmodels`
+- `scipy`
+
 ## License
 This project is licensed under the [Apache License Version 2.0](../LICENSE).
