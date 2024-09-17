@@ -37,6 +37,15 @@ The analysis focuses on identifying the most promising customer segments for EV 
 ## Report
 For detailed findings, methodologies, and recommendations, refer to the `Report.pdf`
 
+## Dependencies
+The following libraries are required to run the notebook:
+- `numpy`
+- `pandas`
+- `matplotlib`
+- `seaborn`
+- `scikit-learn`
+- `kneed`
+
 ## Future Scope
 - Further refinement of the customer segmentation model with more granular data.
 - Extend the analysis to include three- and four-wheeler segments as the EV market evolves.
