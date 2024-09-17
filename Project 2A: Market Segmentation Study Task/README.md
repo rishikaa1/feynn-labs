@@ -9,7 +9,7 @@ The report titled **Strategic Insights into Market Segmentation** provides a dee
 - A case study on consumer perceptions of McDonald's brand image, with practical application of segmentation techniques.
 
 - ## Contents
-- `Strategic Insights into Market Segmentation.pdf`: The comprehensive report on market segmentation.
+- `strategic insights into market segmentation.pdf`: The comprehensive report on market segmentation.
 - `mcdonalds (1).csv`: The dataset used for McDonald's case study, which analyzes consumer perceptions.
 - `mcdonalds.ipynb`:  The Colab notebook containing the segmentation analysis and clustering techniques applied to the McDonald's dataset.
 
