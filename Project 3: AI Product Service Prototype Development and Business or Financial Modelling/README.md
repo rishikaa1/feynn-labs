@@ -13,7 +13,7 @@ The project addresses common challenges faced by SMEs, such as inefficient resou
 
 ## Files in the Repository
 
-1. `Report.pdf!`: A comprehensive report detailing the OptiChain platform, its core functionalities, business model, technical architecture, and financial modeling approach.
+1. `Report.pdf`: A comprehensive report detailing the OptiChain platform, its core functionalities, business model, technical architecture, and financial modeling approach.
 2. `Demand_Forecasting_Inventory_Logistics_Optimization.ipynb`: Colab notebook containing the code for implementing the machine learning models, including:
      - LSTM-based demand forecasting
      - Economic Order Quantity (EOQ) for inventory optimization
