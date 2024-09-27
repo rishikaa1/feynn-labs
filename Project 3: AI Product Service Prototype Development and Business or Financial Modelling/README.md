@@ -23,7 +23,9 @@ The project addresses common challenges faced by SMEs, such as inefficient resou
      - `store_nbr`: Unique identifier for each store
      - `family`: Product category
 
-## Requirements
+## Dependencies
+
+The following libraries are required to run the notebook:
 
 - `pandas`
 - `numpy`
