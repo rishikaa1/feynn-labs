@@ -4,10 +4,10 @@ This repository contains the project work completed during my internship at Feyn
 
 ## Table of Contents
 
-- [Project 1: AI Product/Service Prototyping for Small Businesses (Solo Project)](#Project 1: AI Product Prototyping for Small Businesses)
-- [Project 2A: Market Segmentation Study Task](#project-2a-market-segmentation-study-task)
-- [Project 2B: Electric Vehicle (EV) Market Segmentation](#project-2b-electric-vehicle-ev-market-segmentation)
-- [Project 3: AI Product/Service Prototype Development and Business/Financial Modelling](#project-3-ai-productservice-prototype-development-and-businessfinancial-modelling)
+- Project 1: AI Product/Service Prototyping for Small Businesses (Solo Project)
+- Project 2A: Market Segmentation Study Task
+- Project 2B: Electric Vehicle (EV) Market Segmentation
+- Project 3: AI Product/Service Prototype Development and Business/Financial Modelling
 
 ---
 
@@ -28,7 +28,7 @@ Identify real-world markets where AI can be applied to small and medium-sized bu
 - Product Ideation and Prototype Design
 - Abstract Product Model and Implementation Strategy
 
-**Folder**: `project_1_ai_product_prototyping`
+**Folder**: `Project 1: AI Product Prototyping for Small Businesses`
 
 ---
 
@@ -42,7 +42,7 @@ Study the fundamentals of Market Segmentation, covering the 10 steps outlined in
 - McDonald’s Market Segmentation Case Study Replication in Python
 - Group Collaboration Task: Breakdown of steps and individual responsibilities
 
-**Folder**: `project_2a_market_segmentation_study`
+**Folder**: `Project 2A: Market Segmentation Study Task`
 
 **Additional Resources**:
 - Market Segmentation PDF: [Link](https://drive.google.com/file/d/1SIEt4Bp_4R9dcs4saU1DIui1IKWQIW38/view)
@@ -60,10 +60,7 @@ Analyze the Indian Electric Vehicle (EV) market to develop a feasible strategy f
 - Strategic Market Entry Proposal Based on Innovation Adoption Life Cycle
 - Pricing Strategy Based on Early Market Psychographics
 
-**Folder**: `project_2b_ev_market_segmentation`
-
-**Additional Resources**:
-- Innovation Adoption Life Cycle: [Link](https://en.wikipedia.org/wiki/Technology_adoption_life_cycle)
+**Folder**: `EV Market Segmentation`
 
 ---
 
@@ -78,24 +75,13 @@ Develop an AI product/service prototype based on the idea from Project 1. This p
 - Business Modelling: Strategy to Introduce the Product into the Market
 - Financial Modelling: Revenue Prediction Using Regression Models or Time Series Forecasting
 
-**Folder**: `project_3_prototype_business_financial_modelling`
-
-**Additional Resources**:
-- [Guide to Time Series Analysis](https://www.analyticsvidhya.com/blog/2021/10/a-comprehensive-guide-to-time-series-analysis/)
-- [Stock Market Prediction with ML](https://www.analyticsvidhya.com/blog/2021/10/machine-learning-for-stock-market-prediction-with-step-by-step-implementation/)
+**Folder**: `Project 3: AI Product/Servicee Prototype Development and Business/Financial Modelling`
 
 ---
 
 ## License
 
-This repository is licensed under the Apache License Version 2.0. For more details, please refer to the LICENSE file.
+This repository is licensed under the [Apache License Version 2.0](/LICENSE).
 
 ---
 
-## Contact Information
-
-For any questions or collaboration requests, feel free to reach out:
-
-- **Name**: Rishika Hazarika
-- **Email**: [Your Email]
-- **LinkedIn**: [Your LinkedIn Profile]
