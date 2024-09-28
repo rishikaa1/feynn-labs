@@ -75,7 +75,7 @@ Develop an AI product/service prototype based on the idea from Project 1. This p
 - Business Modelling: Strategy to Introduce the Product into the Market
 - Financial Modelling: Revenue Prediction Using Regression Models or Time Series Forecasting
 
-**Folder**: `Project 3: AI Product/Servicee Prototype Development and Business/Financial Modelling`
+**Folder**: `Project 3: AI Product/Service Prototype Development and Business/Financial Modelling`
 
 ---
 
